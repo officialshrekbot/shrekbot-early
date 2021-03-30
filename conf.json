@@ -1,0 +1,15 @@
+{
+    "token": "the bots token",
+    "prefix": "s>",
+    "ownerId": "your id",
+
+    "shrekColour": "#03b900",
+    "shrekUrl": "http://shrekbot.tk/",
+    "shrekImgUrl": "http://shrekbot.tk/img/shrek.png",
+
+    "shrekAddUrl": "http://shrekbot.tk/addbot.html",
+    "topggUrl": "https://top.gg/bot/740964189660774482",
+    "discordbotlistUrl": "https://discordbotlist.com/bots/shrek",
+    "discordbotsUrl": "https://discord.bots.gg/bots/740964189660774482"
+
+}
